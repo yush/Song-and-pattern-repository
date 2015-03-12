@@ -1,0 +1,1965 @@
+<song>
+    <version>0.9.3</version>
+    <bpm>120</bpm>
+    <volume>0.73</volume>
+    <metronomeVolume>0.5</metronomeVolume>
+    <name>Hipshot</name>
+    <author>Unknown</author>
+    <notes>Empty song.</notes>
+    <loopEnabled>true</loopEnabled>
+    <mode>song</mode>
+    <humanize_time>0.34</humanize_time>
+    <humanize_velocity>0.36</humanize_velocity>
+    <swing_factor>0.64</swing_factor>
+    <delayFXEnabled>false</delayFXEnabled>
+    <delayFXWetLevel>1</delayFXWetLevel>
+    <delayFXFeedback>0.4</delayFXFeedback>
+    <delayFXTime>48</delayFXTime>
+    <instrumentList>
+        <instrument>
+            <id>0</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>kick 1</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>kick_1.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>1</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>kick 2</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>kick_2.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>2</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>kick 3</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>kick_3.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>3</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>kick 4</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>kick_4.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>4</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>snare 1</name>
+            <volume>0.94</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>sn_3.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>5</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>snare 2</name>
+            <volume>0.89</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>sn_1.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>6</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>snare 3</name>
+            <volume>0.88</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>sn_2.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>7</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>snare 4</name>
+            <volume>0.15</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>sn_4.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>8</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>rim</name>
+            <volume>0.81</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>rim_1.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>9</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>funk clap</name>
+            <volume>0.71</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>funk_clap_1.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>10</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>chh 1</name>
+            <volume>0.81</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>chh_1.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>11</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>chh 2</name>
+            <volume>0.85</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>chh_2.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>12</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>chh 3</name>
+            <volume>0.8</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>chh_3.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>13</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>chh 4</name>
+            <volume>0.8</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>chh_4.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>14</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>fx kick</name>
+            <volume>0.73</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>fx_kick.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>15</id>
+            <drumkit>HipHop-2</drumkit>
+            <name>606 tom</name>
+            <volume>0.92</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>606_tom.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>16</id>
+            <drumkit>GMkit</drumkit>
+            <name>17</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>17</id>
+            <drumkit>GMkit</drumkit>
+            <name>18</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>18</id>
+            <drumkit>GMkit</drumkit>
+            <name>19</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>19</id>
+            <drumkit>GMkit</drumkit>
+            <name>20</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>20</id>
+            <drumkit>GMkit</drumkit>
+            <name>21</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>21</id>
+            <drumkit>GMkit</drumkit>
+            <name>22</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>22</id>
+            <drumkit>GMkit</drumkit>
+            <name>23</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>23</id>
+            <drumkit>GMkit</drumkit>
+            <name>24</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>24</id>
+            <drumkit>GMkit</drumkit>
+            <name>25</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>25</id>
+            <drumkit>GMkit</drumkit>
+            <name>26</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>26</id>
+            <drumkit>GMkit</drumkit>
+            <name>27</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>27</id>
+            <drumkit>GMkit</drumkit>
+            <name>28</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>28</id>
+            <drumkit>GMkit</drumkit>
+            <name>29</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>29</id>
+            <drumkit>GMkit</drumkit>
+            <name>30</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>30</id>
+            <drumkit>GMkit</drumkit>
+            <name>31</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>31</id>
+            <drumkit>GMkit</drumkit>
+            <name>32</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+    </instrumentList>
+    <patternList>
+        <pattern>
+            <name>Basis</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Basis4+</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Basis3+4+</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>123</position>
+                            <velocity>0.55</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>BasisWirbel4+</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>102</position>
+                            <velocity>0.05</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>105</position>
+                            <velocity>0.06</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>108</position>
+                            <velocity>0.09</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>111</position>
+                            <velocity>0.13</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>114</position>
+                            <velocity>0.2</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>117</position>
+                            <velocity>0.27</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>120</position>
+                            <velocity>0.34</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>123</position>
+                            <velocity>0.45</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>126</position>
+                            <velocity>0.55</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>129</position>
+                            <velocity>0.66</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>BasisTech</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>48</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>BasisTech4+</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>48</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>120</position>
+                            <velocity>0.55</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+    </patternList>
+    <patternSequence>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis4+</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis3+4+</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis4+</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>Basis</patternID>
+        </group>
+        <group>
+            <patternID>BasisWirbel4+</patternID>
+        </group>
+        <group>
+            <patternID>BasisTech</patternID>
+        </group>
+        <group>
+            <patternID>BasisTech</patternID>
+        </group>
+        <group>
+            <patternID>BasisTech</patternID>
+        </group>
+        <group>
+            <patternID>BasisTech4+</patternID>
+        </group>
+        <group>
+            <patternID>BasisTech</patternID>
+        </group>
+        <group>
+            <patternID>BasisTech</patternID>
+        </group>
+        <group>
+            <patternID>BasisTech</patternID>
+        </group>
+    </patternSequence>
+    <ladspa>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+    </ladspa>
+</song>

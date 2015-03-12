@@ -1,0 +1,2783 @@
+<song>
+    <version>0.9.3</version>
+    <bpm>96</bpm>
+    <volume>0.64</volume>
+    <metronomeVolume>0.5</metronomeVolume>
+    <name>Marsch1</name>
+    <author>Ruedi</author>
+    <notes>Empty song.</notes>
+    <loopEnabled>true</loopEnabled>
+    <mode>pattern</mode>
+    <humanize_time>0.37</humanize_time>
+    <humanize_velocity>0.39</humanize_velocity>
+    <swing_factor>0.22</swing_factor>
+    <delayFXEnabled>false</delayFXEnabled>
+    <delayFXWetLevel>1</delayFXWetLevel>
+    <delayFXFeedback>0.4</delayFXFeedback>
+    <delayFXTime>48</delayFXTime>
+    <instrumentList>
+        <instrument>
+            <id>0</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Kick</name>
+            <volume>0.98</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>bd_01.flac</filename>
+                <min>0</min>
+                <max>0.21</max>
+                <gain>1.53</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>bd_02.flac</filename>
+                <min>0.21</min>
+                <max>0.46</max>
+                <gain>1.47</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>bd_03.flac</filename>
+                <min>0.47</min>
+                <max>0.7</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>bd_04.flac</filename>
+                <min>0.7</min>
+                <max>0.79</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>bd_05.flac</filename>
+                <min>0.8</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>1</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Stick</name>
+            <volume>0.28</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>rim_01.flac</filename>
+                <min>0</min>
+                <max>0.36</max>
+                <gain>1.29</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>rim_02.flac</filename>
+                <min>0.37</min>
+                <max>0.5</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>rim_03.flac</filename>
+                <min>0.51</min>
+                <max>0.71</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>rim_04.flac</filename>
+                <min>0.72</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>2</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Snare Jazz</name>
+            <volume>0.62</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>jsnare_01.flac</filename>
+                <min>0</min>
+                <max>0.15</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>jsnare_02.flac</filename>
+                <min>0.16</min>
+                <max>0.4</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>jsnare_03.flac</filename>
+                <min>0.4</min>
+                <max>0.6</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>jsnare_04.flac</filename>
+                <min>0.6</min>
+                <max>0.8</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>jsnare_05.flac</filename>
+                <min>0.8</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>3</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Hand Clap</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>clap_01.flac</filename>
+                <min>0</min>
+                <max>0.3</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>clap_02.flac</filename>
+                <min>0.3</min>
+                <max>0.6</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>clap_03.flac</filename>
+                <min>0.6</min>
+                <max>0.8</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>clap_04.flac</filename>
+                <min>0.8</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>4</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Snare Rock</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>rsnare_01.flac</filename>
+                <min>0</min>
+                <max>0.2</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>rsnare_02.flac</filename>
+                <min>0.2</min>
+                <max>0.4</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>rsnare_03.flac</filename>
+                <min>0.4</min>
+                <max>0.6</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>rsnare_04.flac</filename>
+                <min>0.6</min>
+                <max>0.8</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>rsnare_05.flac</filename>
+                <min>0.8</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>5</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Tom Low</name>
+            <volume>0.96</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0.62</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>floortom_01.flac</filename>
+                <min>0</min>
+                <max>0.3</max>
+                <gain>1.56</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>floortom_02.flac</filename>
+                <min>0.3</min>
+                <max>0.6</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>floortom_03.flac</filename>
+                <min>0.6</min>
+                <max>0.8</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>floortom_04.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>6</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Closed HH</name>
+            <volume>0.95</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.64</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>hhclosed_01.flac</filename>
+                <min>0</min>
+                <max>0.2</max>
+                <gain>1.55</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>hhclosed_02.flac</filename>
+                <min>0.2</min>
+                <max>0.4</max>
+                <gain>1.45</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>hhclosed_03.flac</filename>
+                <min>0.4</min>
+                <max>0.6</max>
+                <gain>1.5</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>hhclosed_04.flac</filename>
+                <min>0.6</min>
+                <max>0.8</max>
+                <gain>1.15</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>hhclosed_05.flac</filename>
+                <min>0.8</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>7</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Tom Mid</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.86</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>tom_01.flac</filename>
+                <min>0</min>
+                <max>0.3</max>
+                <gain>1.72</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>tom_02.flac</filename>
+                <min>0.3</min>
+                <max>0.5</max>
+                <gain>1.27</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>tom_03.flac</filename>
+                <min>0.5</min>
+                <max>0.7</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>tom_04.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>8</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Pedal HH</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.58</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>hhpedal_01.flac</filename>
+                <min>0</min>
+                <max>0.5</max>
+                <gain>1.82</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>hhpedal_02.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1.44</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>9</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Tom Hi</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.58</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>tom_01.flac</filename>
+                <min>0</min>
+                <max>0.2</max>
+                <gain>1.29</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>tom_02.flac</filename>
+                <min>0.2</min>
+                <max>0.5</max>
+                <gain>1.15</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>tom_03.flac</filename>
+                <min>0.5</min>
+                <max>0.7</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>tom_04.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>10</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Open HH</name>
+            <volume>0.8</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.64</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>hhopen_00.flac</filename>
+                <min>0</min>
+                <max>0.3</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>hhopen_01.flac</filename>
+                <min>0</min>
+                <max>0.5</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>hhopen_02.flac</filename>
+                <min>0</min>
+                <max>0.7</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>hhopen_03.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>11</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Cowbell</name>
+            <volume>0.8</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>12</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Ride Jazz</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0.72</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>ride_01.flac</filename>
+                <min>0</min>
+                <max>0.28</max>
+                <gain>1.65</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>ride_02.flac</filename>
+                <min>0</min>
+                <max>0.5</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>ride_03.flac</filename>
+                <min>0</min>
+                <max>0.7</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>ride_04.flac</filename>
+                <min>0</min>
+                <max>0.9</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>ride_05.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>13</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Crash</name>
+            <volume>0.69</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.74</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>crash_01.flac</filename>
+                <min>0</min>
+                <max>0.2</max>
+                <gain>1.65</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>crash_02.flac</filename>
+                <min>0</min>
+                <max>0.4</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>crash_03.flac</filename>
+                <min>0</min>
+                <max>0.6</max>
+                <gain>1.54</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>crash_04.flac</filename>
+                <min>0</min>
+                <max>0.8</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>crash_05.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>14</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Ride Rock</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0.88</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>ride_01.flac</filename>
+                <min>0</min>
+                <max>0.2</max>
+                <gain>2</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>ride_02.flac</filename>
+                <min>0</min>
+                <max>0.4</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>ride_03.flac</filename>
+                <min>0</min>
+                <max>0.6</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>ride_04.flac</filename>
+                <min>0</min>
+                <max>0.9</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>ride_05.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>15</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>Crash Jazz</name>
+            <volume>0.77</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.74</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>crash_01.flac</filename>
+                <min>0</min>
+                <max>0.2</max>
+                <gain>1.6</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>crash_02.flac</filename>
+                <min>0</min>
+                <max>0.4</max>
+                <gain>1.73</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>crash_03.flac</filename>
+                <min>0</min>
+                <max>0.6</max>
+                <gain>1.51</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>crash_04.flac</filename>
+                <min>0</min>
+                <max>0.8</max>
+                <gain>1.17</gain>
+                <pitch>0</pitch>
+            </layer>
+            <layer>
+                <filename>crash_05.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1.3</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>16</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>17</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>17</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>18</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>18</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>19</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>19</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>20</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>20</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>21</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>21</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>22</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>22</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>23</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>23</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>24</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>24</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>25</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>25</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>26</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>26</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>27</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>27</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>28</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>28</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>29</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>29</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>30</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>30</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>31</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>31</id>
+            <drumkit>Millo_MultiLayered2</drumkit>
+            <name>32</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>emptySample.wav</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+    </instrumentList>
+    <patternList>
+        <pattern>
+            <name>Pattern 1</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>108</position>
+                            <velocity>0.25</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>120</position>
+                            <velocity>0.92</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.95</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>180</position>
+                            <velocity>0.31</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>12</position>
+                            <velocity>0.59</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>24</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>60</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>84</position>
+                            <velocity>0.52</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>108</position>
+                            <velocity>0.64</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>132</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>156</position>
+                            <velocity>0.55</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                        <note>
+                            <position>180</position>
+                            <velocity>0.86</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>1</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.96</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>3</position>
+                            <velocity>0.26</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>6</position>
+                            <velocity>0.12</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>36</position>
+                            <velocity>0.75</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>39</position>
+                            <velocity>0.51</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>42</position>
+                            <velocity>0.26</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>45</position>
+                            <velocity>0.2</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.88</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>75</position>
+                            <velocity>0.2</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>120</position>
+                            <velocity>0.96</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>123</position>
+                            <velocity>0.58</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>126</position>
+                            <velocity>0.33</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>129</position>
+                            <velocity>0.12</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.89</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                        <note>
+                            <position>147</position>
+                            <velocity>0.24</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>2</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.33</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                        <note>
+                            <position>180</position>
+                            <velocity>0.61</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>5</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>12</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                        <note>
+                            <position>60</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                        <note>
+                            <position>108</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                        <note>
+                            <position>180</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>6</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                        <note>
+                            <position>24</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                        <note>
+                            <position>36</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                        <note>
+                            <position>48</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                        <note>
+                            <position>84</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                        <note>
+                            <position>120</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                        <note>
+                            <position>132</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>12</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>14</instrument>
+                        </note>
+                        <note>
+                            <position>156</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>14</instrument>
+                        </note>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>14</instrument>
+                        </note>
+                        <note>
+                            <position>180</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>14</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 2</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 3</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 4</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 5</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 6</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 7</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 8</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 9</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 10</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+    </patternList>
+    <patternSequence>
+        <group>
+            <patternID>Pattern 1</patternID>
+        </group>
+    </patternSequence>
+    <ladspa>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+    </ladspa>
+</song>

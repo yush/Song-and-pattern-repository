@@ -1,0 +1,2123 @@
+<song>
+    <version>0.9.3</version>
+    <bpm>108</bpm>
+    <volume>0.73</volume>
+    <metronomeVolume>0.5</metronomeVolume>
+    <name>Untitled Song</name>
+    <author>Unknown</author>
+    <notes>Empty song.</notes>
+    <loopEnabled>true</loopEnabled>
+    <mode>pattern</mode>
+    <humanize_time>0</humanize_time>
+    <humanize_velocity>0</humanize_velocity>
+    <swing_factor>0</swing_factor>
+    <delayFXEnabled>false</delayFXEnabled>
+    <delayFXWetLevel>1</delayFXWetLevel>
+    <delayFXFeedback>0.4</delayFXFeedback>
+    <delayFXTime>48</delayFXTime>
+    <instrumentList>
+        <instrument>
+            <id>0</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Kick 1</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Kick_1.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>1</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Kick 2</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Kick_2.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>2</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Rim Shot</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Rim.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>3</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Snare 1</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Snare_1.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>4</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Snare 2</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Snare_2.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>5</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Snare 3</name>
+            <volume>0.99</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Snare_3.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>6</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Clap</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Clap.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>7</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Tom 1 Low</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0.5</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Tom_1_Low.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>8</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Tom 1 Mid</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Tom_1_Mid.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>9</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Tom 1 Hi</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.62</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Tom_1_Hi.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>10</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Tom 2 Low</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0.56</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Tom_2_Low.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>11</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Tom 2 Mid</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Tom_2_Mid.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>12</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Tom 2 Hi</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.6</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Tom_2_Hi.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>13</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Hat Closed</name>
+            <volume>0.54</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Hat_Closed.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>14</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Hat Open</name>
+            <volume>0.53</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Hat_Open.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>15</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Conga Low</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0.58</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Conga_Low.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>16</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Conga Hi</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.52</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Conga_Hi.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>17</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Conga Slap</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.52</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Conga_Slap.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>18</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Shaker</name>
+            <volume>0.53</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Shaker.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>19</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Timbale Low</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0.56</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Timbale_Low.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>20</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Timbale Hi</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.62</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Timbale_Hi.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>21</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Agogo Low</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>0.48</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Agogo_Low.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>22</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Agogo Hi</name>
+            <volume>1</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>0.6</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Agogo_Hi.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>23</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Ride Cymbal</name>
+            <volume>0.74</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Ride_Cymbal.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>24</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Cup Cymbal</name>
+            <volume>0.57</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Cup_Cymbal.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>25</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 China Cymbal</name>
+            <volume>0.17</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_China_Cymbal.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>26</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Crash</name>
+            <volume>0.58</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Crash.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>27</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626 Cowbell</name>
+            <volume>0.76</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Cowbell.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>28</id>
+            <drumkit>Classic-626</drumkit>
+            <name>Classic-626_Tambourine</name>
+            <volume>0.73</volume>
+            <isMuted>false</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+            <layer>
+                <filename>Classic-626_Tambourine.flac</filename>
+                <min>0</min>
+                <max>1</max>
+                <gain>1</gain>
+                <pitch>0</pitch>
+            </layer>
+        </instrument>
+        <instrument>
+            <id>29</id>
+            <drumkit>GMkit</drumkit>
+            <name>30</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>30</id>
+            <drumkit>GMkit</drumkit>
+            <name>31</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+        <instrument>
+            <id>31</id>
+            <drumkit>GMkit</drumkit>
+            <name>32</name>
+            <volume>0.8</volume>
+            <isMuted>true</isMuted>
+            <isLocked>false</isLocked>
+            <pan_L>1</pan_L>
+            <pan_R>1</pan_R>
+            <gain>1</gain>
+            <FX1Level>0</FX1Level>
+            <FX2Level>0</FX2Level>
+            <FX3Level>0</FX3Level>
+            <FX4Level>0</FX4Level>
+            <Attack>0</Attack>
+            <Decay>0</Decay>
+            <Sustain>1</Sustain>
+            <Release>1000</Release>
+            <randomPitchFactor>0</randomPitchFactor>
+            <exclude />
+        </instrument>
+    </instrumentList>
+    <patternList>
+        <pattern>
+            <name>Pattern 1</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>0</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>36</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>48</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>96</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>132</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                        <note>
+                            <position>144</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>0</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>24</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>3</instrument>
+                        </note>
+                        <note>
+                            <position>72</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>3</instrument>
+                        </note>
+                        <note>
+                            <position>120</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>3</instrument>
+                        </note>
+                        <note>
+                            <position>168</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>3</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>12</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>18</instrument>
+                        </note>
+                        <note>
+                            <position>36</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>18</instrument>
+                        </note>
+                        <note>
+                            <position>60</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>18</instrument>
+                        </note>
+                        <note>
+                            <position>84</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>18</instrument>
+                        </note>
+                        <note>
+                            <position>108</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>18</instrument>
+                        </note>
+                        <note>
+                            <position>132</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>18</instrument>
+                        </note>
+                        <note>
+                            <position>156</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>18</instrument>
+                        </note>
+                        <note>
+                            <position>180</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>18</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList>
+                        <note>
+                            <position>48</position>
+                            <velocity>0.8</velocity>
+                            <pan_L>1</pan_L>
+                            <pan_R>1</pan_R>
+                            <pitch>0</pitch>
+                            <length>-1</length>
+                            <instrument>25</instrument>
+                        </note>
+                    </noteList>
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 2</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 3</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 4</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 5</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 6</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 7</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 8</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 9</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+        <pattern>
+            <name>Pattern 10</name>
+            <size>192</size>
+            <sequenceList>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+                <sequence>
+                    <noteList />
+                </sequence>
+            </sequenceList>
+        </pattern>
+    </patternList>
+    <patternSequence>
+        <group>
+            <patternID>Pattern 1</patternID>
+        </group>
+    </patternSequence>
+    <ladspa>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+        <fx>
+            <name>no plugin</name>
+            <filename>-</filename>
+            <enabled>false</enabled>
+            <volume>0</volume>
+        </fx>
+    </ladspa>
+</song>
